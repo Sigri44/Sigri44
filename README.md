@@ -8,7 +8,7 @@
   - 🚧 Website under restructuration
 ###
 
-### Languages & Tools ###
+### Languages & Tools
 
 <div style="margin:20px">
  <img align="left" alt="PHP" width="60px" src="https://www.php.net/images/logos/new-php-logo.png" />
