@@ -25,3 +25,4 @@
 ### Metrics
 
 ![Metrics](https://github.com/Sigri44/Sigri44/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Sigri44)
