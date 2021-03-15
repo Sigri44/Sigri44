@@ -24,6 +24,4 @@
 
 ### Metrics
 
-![Metrics](https://github.com/Sigri44/Sigri44/blob/main/github-metrics.svg)
-![Metrics](https://metrics.lecoq.io/Sigri44)
 ![Metrics](https://metrics.lecoq.io/Sigri44?template=classic&isocalendar=1&languages=1&people=1&gists=1&followup=1&lines=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FParis)
