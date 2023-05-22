@@ -4,7 +4,6 @@
   - 🌱 Learning Solidity, Web3
   - 😎 PHP ninja
   - 🔍 Looking to learn Python, React, Solidity
-  - 📫 Reach me on Twitter [@Sigri44](https://twitter.com/sigri44)
   - 🚧 Website under restructuration
 ###
 
