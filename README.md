@@ -36,6 +36,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigri44&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sigri44&theme=transparent" />
-</a>
