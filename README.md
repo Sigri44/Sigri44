@@ -25,3 +25,17 @@
 ## Metrics ##
 
 ![Metrics](https://metrics.lecoq.io/Sigri44?template=classic&isocalendar=1&languages=1&people=1&gists=1&followup=1&lines=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FParis)
+
+## Metrics 2 ##
+
+<br/>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sigri44&show_icons=true&theme=transparent" />
+</a></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigri44&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sigri44&theme=transparent" />
+</a>
